@@ -1,4 +1,4 @@
-package day01_GitHub;
+package us100;
 
 public class TC1 {
     //awesome code here part 1
