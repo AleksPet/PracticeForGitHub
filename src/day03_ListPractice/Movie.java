@@ -5,4 +5,5 @@ public class Movie {
     //watching 10 minutes
     //watching 25 minutes
    //  add more
+    //done with tc100
 }
