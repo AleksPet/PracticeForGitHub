@@ -4,4 +4,5 @@ public class Movie {
     //start watching movie
     //watching 10 minutes
     //watching 25 minutes
+   //  add more
 }
